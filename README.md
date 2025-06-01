@@ -18,8 +18,6 @@ Closed-eye-detector.py – Main Python script that runs the detection.
 eye_log.txt – Auto-generated file logging eye state changes.
 
 🔧 Requirements
-Python 3.7+
-
 OpenCV
 
 MediaPipe
